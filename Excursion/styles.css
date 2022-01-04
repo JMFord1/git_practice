@@ -1,4 +1,5 @@
 body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-align: center;
     background-color: black;
@@ -9,4 +10,26 @@ h1 {
 
 .download {
     color: aquamarine;
+    font-size: 16px;
+}
+
+img {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.description {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.app-description {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
 }
