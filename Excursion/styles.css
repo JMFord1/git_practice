@@ -4,6 +4,7 @@ body {
     text-align: center;
     background-color: black;
 }
+
 h1 {
     font-size: 50px;
 }
@@ -31,5 +32,4 @@ img {
 footer {
     text-align: right;
     color: gray;
-}
 }
